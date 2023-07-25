@@ -1,0 +1,6 @@
+.space/
+.idea/
+.env
+Spacefile
+venv/
+__pycache__/
